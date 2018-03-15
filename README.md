@@ -1,2 +1,2 @@
 # MG1-Game-Maker
-My first Drag and Drop game I made with my own.
+My first Drag and Drop game I made with my own skills.
